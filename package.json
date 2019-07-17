@@ -1,0 +1,25 @@
+{
+  "name": "csv-series",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+___"
+  },
+  "author": "saber2pr",
+  "license": "ISC",
+  "files": [
+    "lib/core/*",
+    "lib/index.*"
+  ],
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "node ./lib/test/test.js",
+    "start": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^3.4.3"
+  },
+  "dependencies": {
+    "@types/node": "^12.6.6"
+  }
+}
