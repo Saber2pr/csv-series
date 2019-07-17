@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git+___"
+    "url": "git+https://github.com/Saber2pr/csv-series.git"
   },
   "author": "saber2pr",
   "license": "ISC",
